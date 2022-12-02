@@ -1,0 +1,71 @@
+GIMP Palette
+Name: TrueColors
+Columns: 15
+#
+141  19  19	Red 0
+183  22  22	Red 1
+208  27  27	Red 2
+246  32  32	Red 3
+255  47  47	Red 4
+ 34  85  34	Green 0
+ 46 102  45	Green 1
+ 55 114  54	Green 2
+ 67 129  66	Green 3
+ 78 143  77	Green 4
+ 18  71 110	Blue 0
+ 25  86 131	Blue 1
+ 33 100 149	Blue 2
+ 46 117 170	Blue 3
+ 63 135 189	Blue 4
+226  46  10	Orange 0
+239  70   1	Orange 1
+255 102  17	Orange 2
+251 124  31	Orange 3
+253 146  63	Orange 4
+ 51 143 101	Seafoam 0
+ 71 166 122	Seafoam 1
+ 93 189 145	Seafoam 2
+129 214 175	Seafoam 3
+168 230 202	Seafoam 4
+114  67 158	Purple 0
+131  77 180	Purple 1
+150  96 201	Purple 2
+173 117 226	Purple 3
+190 137 238	Purple 4
+255 144   2	Yellow 0
+255 162  22	Yellow 1
+255 194  49	Yellow 2
+255 215  76	Yellow 3
+255 233 138	Yellow 4
+ 55 162 170	Light Blue 0
+ 76 202 211	Light Blue 1
+ 93 223 232	Light Blue 2
+135 241 249	Light Blue 3
+173 249 255	Light Blue 4
+176  68  95	Pink 0
+210  90 120	Pink 1
+235 121 153	Pink 2
+249 148 176	Pink 3
+255 174 196	Pink 4
+ 83  25  30	Brown 0
+111  35  34	Brown 1
+131  46  39	Brown 2
+144  58  47	Brown 3
+160  70  56	Brown 4
+191  84  46	Light Brown 0
+204 101  54	Light Brown 1
+219 123  64	Light Brown 2
+231 147  87	Light Brown 3
+242 161 109	Light Brown 4
+ 28  28  29	Dark Grey 0
+ 37  37  38	Dark Grey 1
+ 50  50  53	Dark Grey 2
+ 67  67  70	Dark Grey 3
+ 79  79  80	Dark Grey 4
+110 115 117	Grey 0
+135 139 140	Grey 1
+157 165 166	Grey 2
+194 202 203	Grey 3
+214 223 223	Grey 4
+  0   0   0	Black
+255 255 255	White
